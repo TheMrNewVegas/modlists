@@ -1,0 +1,45 @@
+[
+  {
+    "title": "Dungeons & Daedra",
+    "description": "",
+    "author": "TheMrNewVegas - BYC",
+    "maintainers": [
+      "github/TheMrNewVegas",
+      "TheMrNewVegas"
+    ],
+    "game": "oblivionremastered",
+    "official": false,
+    "tags": [
+      "Unofficial",
+      "Dungeons & Dragons",
+      "Ascension",
+      "Overhaul",
+      "Nevernude"
+    ],
+    "nsfw": false,
+    "utility_list": false,
+    "image_contains_title": true,
+    "DisplayVersionOnlyInInstallerView": false,
+    "force_down": false,
+    "links": {
+      "image": "https://raw.githubusercontent.com/TheMrNewVegas/modlists/refs/heads/main/resources/D%26DR/Dungeons%26DaedraWabba.jpg",
+      "readme": "https://www.modlists.net/docs/3ddr/Installation",
+      "download": "",
+      "machineURL": "dndr",
+      "discordURL": "https://discord.gg/43EhRjU",
+      "websiteURL": ""
+    },
+    "download_metadata": {
+      "Hash": "",
+      "Size": ,
+      "NumberOfArchives": ,
+      "SizeOfArchives": ,
+      "NumberOfInstalledFiles": ,
+      "SizeOfInstalledFiles": ,
+      "TotalSize": 
+    },
+    "version": "0.01",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "2024-01-18T18:45:33.752155Z",
+    "repositoryName": ""
+  },
