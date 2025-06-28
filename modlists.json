@@ -1,5 +1,6 @@
 [
   {
+    "$type": "ModListMetadata, Wabbajack.Lib",
     "title": "Dungeons & Daedra",
     "description": "Based heavily off of its predecessor, Dungeons & Daedra of Oblivion Classic, D&DR attempts to turn the world of Oblivion into a reactive and exciting environment with exploration and thoughtful player choice at the center. You know longer are the center of the universe; Ill preparations and ego will be your downfall. With that in mind, with your character's growth comes immense strength and a much more rewarding experience. Are you truly deserving to hold the title Hero of Kvatch, Divine Crusader, or even Sheogorath?",
     "author": "TheMrNewVegas",
@@ -7,40 +8,34 @@
       "github/TheMrNewVegas"
     ],
     "game": "oblivionremastered",
-    "official": false,
     "tags": [
-      "Dungeons & Dragons",
-      "Ascension",
+      "SFW",
+      "Steam",
       "Overhaul",
-      "Visuals",
-      "Graphics",
-      "NeverNude"
+      "Ascension",
+      "SFW"
     ],
     "nsfw": false,
-    "utility_list": false,
-    "image_contains_title": true,
-    "DisplayVersionOnlyInInstallerView": false,
+    "image_contains_title": false,
     "force_down": false,
     "links": {
+      "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/TheMrNewVegas/modlists/main/resources/D%26DR/Dungeons%26DaedraWabba.webp",
       "readme": "https://www.modlists.net/docs/3ddr/Installation",
-      "download": "",
+      "download": "https://authored-files.wabbajack.org/Halgaris Helper.wabbajack_29d245c9-5f7f-4394-b600-a22e43427337",
       "machineURL": "dndr",
-      "discordURL": "https://discord.gg/43EhRjU",
-      "websiteURL": "https://www.modlists.net/docs/3ddr/Home"
+      "discordURL": "https://discord.gg/43EhRjU"
     },
     "download_metadata": {
+      "$type": "DownloadMetadata, Wabbajack.Lib",
       "Hash": "+2xX8oTNQwM=",
       "Size": 610754093,
       "NumberOfArchives": 125,
       "SizeOfArchives": 708346906,
       "NumberOfInstalledFiles": 2934,
-      "SizeOfInstalledFiles": 2292835059,
-      "TotalSize": 3001181965
+      "SizeOfInstalledFiles": 2292835059
     },
-    "version": "0.1.0",
-    "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2025-06-24T02:40:33.9488511Z",
-    "repositoryName": ""
+    "version": "1.0.0"
   }
 ]
+
