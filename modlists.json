@@ -21,7 +21,7 @@
         "DisplayVersionOnlyInInstallerView": false,
         "force_down": false,
         "links": {
-            "image": "https://raw.githubusercontent.com/TheMrNewVegas/modlists/refs/heads/main/resources/D%26DR/Dungeons%26DaedraWabba.jpg",
+            "image": "https://raw.githubusercontent.com/TheMrNewVegas/modlists/main/resources/D%26DR/Dungeons%26DaedraWabba.jpg",
             "readme": "https://www.modlists.net/docs/3ddr/Installation",
             "download": "https://discord.gg/43EhRjU",
             "machineURL": "dndr",
