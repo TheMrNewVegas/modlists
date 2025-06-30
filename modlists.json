@@ -24,19 +24,19 @@
     "links": {
       "image": "https://raw.githubusercontent.com/TheMrNewVegas/modlists/main/resources/D%26DR/Dungeons%26DaedraWabba.webp",
       "readme": "https://www.modlists.net/docs/3ddr/Installation",
-      "download": "https://authored-files.wabbajack.org/Halgaris Helper.wabbajack_29d245c9-5f7f-4394-b600-a22e43427337",
+      "download": "https://authored-files.wabbajack.org/DnDR.wabbajack_adb1307b-b812-43c9-ab35-0b6d30e2cbab",
       "machineURL": "dndr",
       "discordURL": "https://discord.gg/43EhRjU",
       "websiteURL": "https://www.modlists.net/docs/3ddr/Home"
     },
     "download_metadata": {
-      "Hash": "pxwpmXhGFqQ=",
-      "Size": 610972710,
-      "NumberOfArchives": 172,
-      "SizeOfArchives": 1031730539,
-      "NumberOfInstalledFiles": 3389,
-      "SizeOfInstalledFiles": 2609173232,
-      "TotalSize": 3640903771
+      "Hash": "IAJXuuOXUns=",
+      "Size": 610976090,
+      "NumberOfArchives": 174,
+      "SizeOfArchives": 1033858401,
+      "NumberOfInstalledFiles": 3394,
+      "SizeOfInstalledFiles": 2614274518,
+      "TotalSize": 3648132919
     },
     "version": "0.1.0",
     "dateCreated": "1970-01-01T00:00:00Z",
