@@ -30,15 +30,15 @@
       "websiteURL": "https://www.modlists.net/docs/3ddr/Home"
     },
     "download_metadata": {
-      "Hash": "IAJXuuOXUns=",
-      "Size": 610976090,
-      "NumberOfArchives": 174,
-      "SizeOfArchives": 1033858401,
-      "NumberOfInstalledFiles": 3394,
-      "SizeOfInstalledFiles": 2614274518,
-      "TotalSize": 3648132919
+      "Hash": "qC9UV/t+9DU=",
+      "Size": 610972925,
+      "NumberOfArchives": 172,
+      "SizeOfArchives": 1033844350,
+      "NumberOfInstalledFiles": 3375,
+      "SizeOfInstalledFiles": 2614239954,
+      "TotalSize": 3648084304
     },
-    "version": "0.1.5",
+    "version": "0.1.6",
     "dateCreated": "1970-01-01T00:00:00Z",
     "dateUpdated": "2025-06-24T02:40:33.9488511Z",
     "repositoryName": ""
