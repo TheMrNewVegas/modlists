@@ -1,7 +1,7 @@
 [
   {
-    "title": "Dungeons & Daedra: Remastered",
-    "description": "Based heavily off of its predecessor, Dungeons & Daedra of Oblivion Classic, D&DR attempts to turn the world of Oblivion into a reactive and exciting environment with exploration and thoughtful player choice at the center. You know longer are the center of the universe; Ill preparations and ego will be your downfall. With that in mind, with your character's growth comes immense strength and a much more rewarding experience. Are you truly deserving to hold the title Hero of Kvatch, Divine Crusader, or even Sheogorath?",
+    "title": "Dungeons \u0026 Daedra: Remastered",
+    "description": "Based heavily off of its predecessor, Dungeons \u0026 Daedra of Oblivion Classic, D\u0026DR attempts to turn the world of Oblivion into a reactive and exciting environment with exploration and thoughtful player choice at the center. You know longer are the center of the universe; Ill preparations and ego will be your downfall. With that in mind, with your character\u0027s growth comes immense strength and a much more rewarding experience. Are you truly deserving to hold the title Hero of Kvatch, Divine Crusader, or even Sheogorath?",
     "author": "TheMrNewVegas BYC",
     "maintainers": [
       "github/TheMrNewVegas"
@@ -9,7 +9,7 @@
     "game": "oblivionremastered",
     "official": false,
     "tags": [
-      "Dungeons & Dragons",
+      "Dungeons \u0026 Dragons",
       "Ascension",
       "Overhaul",
       "Visuals",
@@ -24,23 +24,23 @@
     "links": {
       "image": "https://raw.githubusercontent.com/TheMrNewVegas/modlists/main/resources/D%26DR/Dungeons%26DaedraWabba.webp",
       "readme": "https://www.modlists.net/docs/3ddr/Installation",
-      "download": "https://authored-files.wabbajack.org/DnDR.wabbajack_39394abb-3547-45a3-8dfd-a8ad75efebf0",
+      "download": "https://authored-files.wabbajack.org/DnDR.wabbajack_36e69e73-259c-4ffe-b65c-90a31dd07221",
       "machineURL": "dndr",
       "discordURL": "https://discord.gg/43EhRjU",
       "websiteURL": "https://www.modlists.net/docs/3ddr/Home"
     },
     "download_metadata": {
-      "Hash": "CRpcDbOIE1w=",
-      "Size": 610970810,
+      "Hash": "ZBkpRnmS6fQ=",
+      "Size": 610970934,
       "NumberOfArchives": 171,
       "SizeOfArchives": 1033837642,
       "NumberOfInstalledFiles": 3372,
-      "SizeOfInstalledFiles": 2614230432,
-      "TotalSize": 3648068074
+      "SizeOfInstalledFiles": 2614230381,
+      "TotalSize": 3648068023
     },
     "version": "0.1.6",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2025-06-24T02:40:33.9488511Z",
+    "dateUpdated": "2025-07-02T07:05:47.5669676Z",
     "repositoryName": ""
   }
 ]
