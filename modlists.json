@@ -24,14 +24,14 @@
     "links": {
       "image": "https://raw.githubusercontent.com/TheMrNewVegas/modlists/main/resources/D%26DR/Dungeons%26DaedraWabba.webp",
       "readme": "https://www.modlists.net/docs/3ddr/Installation",
-      "download": "https://authored-files.wabbajack.org/DnDR.wabbajack_2cb0d00b-b798-49f4-97c4-9b0e3c7fdd82",
+      "download": "https://authored-files.wabbajack.org/DnDR.wabbajack_41e6f93c-70a9-4b42-b70d-ce22a179bdf8",
       "machineURL": "dndr",
       "discordURL": "https://discord.gg/43EhRjU",
       "websiteURL": "https://www.modlists.net/docs/3ddr/Home"
     },
     "download_metadata": {
-      "Hash": "ugLg6KfFfss=",
-      "Size": 634267497,
+      "Hash": "SQa4dJFMoaU=",
+      "Size": 634267556,
       "NumberOfArchives": 184,
       "SizeOfArchives": 1064220922,
       "NumberOfInstalledFiles": 4457,
@@ -40,7 +40,7 @@
     },
     "version": "0.1.4.0",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2025-07-09T04:37:43.2283091Z",
+    "dateUpdated": "2025-07-09T04:38:40.1633958Z",
     "repositoryName": ""
   }
 ]
