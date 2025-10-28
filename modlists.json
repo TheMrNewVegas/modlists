@@ -23,11 +23,11 @@
     "force_down": true,
     "links": {
       "image": "https://raw.githubusercontent.com/TheMrNewVegas/modlists/main/resources/D%26DR/Dungeons%26DaedraWabba.webp",
-      "readme": "https://www.modlists.net/docs/3ddr/Installation",
+      "readme": "https://www.modlists.net",
       "download": "https://authored-files.wabbajack.org/DnDR.wabbajack_41e6f93c-70a9-4b42-b70d-ce22a179bdf8",
       "machineURL": "dndr",
-      "discordURL": "https://discord.gg/43EhRjU",
-      "websiteURL": "https://www.modlists.net/docs/3ddr/Home"
+      "discordURL": "",
+      "websiteURL": "https://www.modlists.net"
     },
     "download_metadata": {
       "Hash": "SQa4dJFMoaU=",
@@ -45,3 +45,4 @@
   }
 
 ]
+
